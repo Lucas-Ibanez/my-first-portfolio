@@ -30,7 +30,7 @@ Durante o desenvolvimento, foram abordados os seguintes temas:
 ---
 
 ## 🖼️ Demonstração  
-<img width="1587" height="778" alt="image" src="https://github.com/user-attachments/assets/bda1e9d2-7b5a-4e96-819a-f7f58da4392e" />  
+![Descrição da imagem](foto-demonstracao-portfolio.PNG)
 
 ---
 
