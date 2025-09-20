@@ -30,7 +30,7 @@ Durante o desenvolvimento, foram abordados os seguintes temas:
 ---
 
 ## 🖼️ Demonstração  
-*(Se quiser, adicione aqui prints da página ou um link para acessar o projeto publicado, por exemplo no GitHub Pages.)*  
+<img width="1587" height="778" alt="image" src="https://github.com/user-attachments/assets/bda1e9d2-7b5a-4e96-819a-f7f58da4392e" />  
 
 ---
 
